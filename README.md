@@ -5,7 +5,10 @@
 *Italics*
 **Bold**
 
-- List
+- List 
 - List2
+
+1. Numbered
+2. Numbered
 
 - [ ] Checkbox?
